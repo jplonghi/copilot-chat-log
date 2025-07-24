@@ -1,13 +1,9 @@
 ---
-title: "Architectural Decision Records Overview"
-author: "Jose Longhi"
-tags: ["ADR", "Architecture", "Documentation", "Engineering Excellence"]
-categories: ["Architecture", "Documentation"]
-summary: "A comprehensive guide to Architectural Decision Records (ADRs), their benefits, and implementation best practices for software development teams."
-date: "2025-07-23"
+description: "A comprehensive guide to Architectural Decision Records (ADRs), their benefits, and implementation best practices for software development teams."
+tags: [ "architecture", "documentation"]
 ---
 
-## What are Architectural Decision Records?
+## Architectural Decision Records
 
 Architectural Decision Records (ADRs) are lightweight documents that capture important architectural decisions made during a project's lifecycle. They answer the critical question: *"Why did we do it this way?"*
 
