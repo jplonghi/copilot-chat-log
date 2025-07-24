@@ -13,14 +13,8 @@ It captures prompts, responses, and insights from coding sessions to:
 
 ## 🔍 Folder Structure
 
-- `logs/` — Timestamped chat sessions  
-- `domains/` — Organized by language or tool (Python, C#, Git, Markdown, etc.)  
-- `templates/` — Reusable or generalized prompt patterns  
-- `tags.md` — A manual tag index by topic/task/language
+- [`architecture/`](architecture/)
+  - [`adr-overview.md`](architecture/adr-overview.md) — Architectural Decision Records (ADRs)
 
----
 
-## ✅ Why?
-
-AI pair programming is only as effective as your prompt history. This repo makes Copilot chat sessions traceable, reusable, and shareable.
 
