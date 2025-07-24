@@ -11,10 +11,12 @@ It captures prompts, responses, and insights from coding sessions to:
 
 ---
 
-## 🔍 Folder Structure
+## 🔍 Index
 
 - [`architecture/`](architecture/)
   - [`adr-overview.md`](architecture/adr-overview.md) — Architectural Decision Records (ADRs)
+- [`prompts/`](prompts/)
+  - [`english-tech-writer.md`](prompts/english-tech-writer.md) - English Tech Writer Prompt
 
 
 
