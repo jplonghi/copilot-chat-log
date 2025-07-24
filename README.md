@@ -15,6 +15,8 @@ It captures prompts, responses, and insights from coding sessions to:
 
 - [`architecture/`](architecture/)
   - [`adr-overview.md`](architecture/adr-overview.md) — Architectural Decision Records (ADRs)
+- [`chats/`](chats/)
+  - [`primitive-obsession.md`](chats/primitive-obsession.md) - Primitive Obsession in Domain Models
 - [`prompts/`](prompts/)
   - [`english-tech-writer.md`](prompts/english-tech-writer.md) - English Tech Writer Prompt
 
